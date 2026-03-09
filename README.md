@@ -1,5 +1,5 @@
 # IT-Ticket-Analysis
-IT Ticket Analysis (Excel) – Analyze IT support tickets using Excel with data cleaning, trend analysis, pivot tables, and interactive dashboards to identify recurring issues, high-priority tickets, and actionable insights for improving support efficiency.
+IT Ticket Analysis – Analyze IT support tickets using Excel with data cleaning, trend analysis, pivot tables, and interactive dashboards to identify recurring issues, high-priority tickets, and actionable insights for improving support efficiency.
 
 ### 📂 Project Database
 You can view the full IT Ticket Analysis project and dashboard here:
@@ -37,3 +37,7 @@ This project involves a comprehensive analysis of an IT support ticket managemen
 - **Targeted Training:** Focus training on agents identified with high resolution times and low satisfaction scores to improve overall performance.
 - **Optimize Processes:** Address hardware bottlenecks by reviewing procurement or repair workflows and document common system issues in a knowledge base.
 - **Resource Allocation:** Adjust staffing levels to match the increased workload during the peak months of August–October.
+
+# 🛠 Tech Stack
+
+- **Tool:** Microsoft Excel (Pivot Tables, Advanced Formulas, Conditional Formatting, Data Visualization).
